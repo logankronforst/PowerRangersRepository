@@ -1,0 +1,145 @@
+varname,description
+id,identifier
+group,diagnostic group
+shaps_sum,SHAPS: anhedonia total score
+lifetime_status,lifetime history of MDD (yes/no)
+masq_gd,MASQ general distress subscale
+prs_mdd_current_meets,polygenic risk score for meeting for current MDD
+prs_bdi_total,polygenic risk score for meeting for total BDI sore
+remitted,remitted status (yes/no)
+mdd_num_episodes,Lifetime number of depressive episodes
+gender,gender
+age,age
+hispanic,hispanic (yes/no)
+marital_status,marital status
+years_of_school,years of school
+degree,highest degree earned
+financial_support,financial_support
+private_insurance,private_insurance
+priv_ins_yn,private insurance (yes/no)
+never_marry_yn,ever married (yes/no)
+midfrontOpenAVG,EEG: midfrontal alpha asymmetry (eyes open)
+midfrontClosedAVG,EEG: midfrontal alpha asymmetry (eyes closed)
+f65AVG1,EEG: frontal alpha asymmetry across the F5/F6 pair
+f87AVG1,EEG: frontal alpha asymmetry across the F7/F8 pair
+ipaq_vigorous_met,IPAQ: score for vigorous physical activity in past week
+ipaq_moderate_met,IPAQ: score for moderate physical activity in past week
+ipaq_walking_met,IPAQ: score for amount of time spent walking in past week
+ipaq_total_met_minutes,"IPAQ: Total Physical Activity, Past Week Score"
+ipaq_activity_level,"IPAQ: Level of physical activity (low, moderate, high)"
+swls_total,Satisfaction With Life Scale: total score
+bas_drive,BIS/BAS drive subscale
+bas_fun_seeking,BIS/BAS fun-seeking subscale
+bas_reward_responsiveness,BIS/BAS reward responsiveness subscale
+bis,BIS/BAS behavioral inhibition scale
+bas_total,BIS/BAS behavioral activation scale total
+rrs_brooding,Ruminative Response Scale: brooding subscale
+ptq_rep,PTQ: repetitive subscale
+ptq_int,PTQ: intrusive subscale
+ptq_dis,PTQ: difficult to disengage from subscale
+ptq_unp,PTQ: unproductive subscale
+ptq_cap,PTQ: capturing mental capacity
+ptq_coreft,PTQ: core features of repetitive negative thinking subscale
+ptq_total,PTQ: total score
+erq_total,ERQ: total
+erq_reappraisal,ERQ: reappraisal subscale
+erq_suppression,ERQ: suppression subscale
+psqi_comp1,PSQI: subjective sleep quality composite score
+psqi_latency,PSQI: raw sleep latency
+psqi_comp2,PSQI: sleep latency composite score
+psqi_comp3,PSQI: sleep duration composite score
+psqi_efficiency,PSQI: habitual sleep efficiency
+psqi_comp4,PSQI: habitual sleep efficiency composite score
+psqi_disturbances,PSQI: raw sleep disturbances
+psqi_comp5,PSQI: sleep disturbances composite score
+psqi_comp6,PSQI: use of sleep medication composite score
+psqi_comp7,PSQI: daily dysfunction composite score
+psqi_global,PSQI: global score (sum of all composite scores)
+sds_work_school,SDS: work or school impairment subscale
+sds_social,SDS: social life/leisure activities impairment
+sds_home,SDS: family life/home responsibilities impairment
+sds_global,SDS: global functional impairment
+num.pos.endorsed,SRET: number of positive words endorsed
+num.neg.endorsed,SRET: number of negative words endorsed
+negRT,SRET: response time to negative words
+posRT,SRET:  response time to positive words
+numnegrecalled,SRET: number of negative words recalled
+numposrecalled,SRET: number of positive words recalled
+numSRnegrecalled,"SRET: number of negative, self-referential words recalled"
+numSRposrecalled,"SRET: number of positive, self-referential words recalled"
+v_negative,SRET: drift rate to negative words
+v_positive,SRET: drift rate to positive words
+zr_negative,SRET: relative starting point for negative words
+zr_positive,SRET: relative starting point for positive words
+a,SRET: threshold separation
+t0,SRET: response time constant
+d,SRET: differences in speed of response execution
+szr,SRET: inter-trial variability of starting point
+sv,SRET: inter-trial variability of drift
+st0,SRET: decisional components
+p,SRET: percentage of contaminants
+max_digit_bac,"Digit Span: largest number of digits recalled, backwards"
+max_digit_for,"Digit Span: largest number of digits recalled, forwards"
+rt_digit_bac,Digit Span: response time backwards
+rt_digit_for,Digit Span: response time forwards
+neutral_acc_s1,Affective Working Memory Task: accuracy for neutral probes
+sad_acc_s1,Affective Working Memory Task:  accuracy for sad probes
+neu_sad_acc_s1,Affective Working Memory Task:  total accuracy
+NN_error_cor_s1,Affective Working Memory Task:  error rate for neutral-neutral (probe is neutral but Pt selects incorrect neutral face)
+NS_error_cor_s1,Affective Working Memory Task:  error rate for neutral-sad (probe is neutral but Pt selects a sad face)
+SN_error_cor_s1,Affective Working Memory Task:  error rate for sad-neutral (probe is sad but Pt selects a neutral face)
+SS_error_cor_s1,Affective Working Memory Task:  error rate for sad-sad (probe is sad but Pt selects incorrect sad face)
+IS,Actigraphy: interdaily stability
+IV,Actigraphy: intradaily variability
+RA,Actigraphy: relative amplitude
+actamp,Actigraphy: amplitude = maximum -minimum
+actmesor,Actigraphy: value = minimum + 1/2 amplitude half-way between minimum and maximumÊ
+actupmesor,Actigraphy:  time of day of switch from low activity to high activity
+actdownmesor,Actigraphy: time of day of switch from high activity to low activity
+dp_bias_1_sad,Dot Probe: traditional bias difference score for sad stimuli
+n_dp_valid_1_sad,Dot Probe: number of valid trials for sad stimuli
+pct_dp_toward_1_sad,Dot Probe: fraction of total trials towards sad stimuli
+mean_dp_toward_1_sad,Dot Probe: mean TLBS toward sad stimuli
+mean_dp_away_1_sad,Dot Probe: mean TLBS away from sad stimuli
+var_dp_bias_1_sad,Dot Probe: variability in TLBS for sad stimuli
+gaze_bias_1_sad,Dot Probe: mean gaze bias for sad stimuli
+init_gaze_bias_1_sad,Dot Probe: mean initial bias for sad stimuli
+final_gaze_bias_1_sad,Dot Probe: mean final bias for sad stimuli
+pct_gaze_toward_1_sad,"Dot Probe: percent gaze toward stimuli, sad"
+pct_gaze_center_1_sad,"Dot Probe: percent gaze toward center, sad"
+mean_gaze_toward_1_sad,Dot Probe: mean gaze toward sad stimuli
+mean_gaze_away_1_sad,Dot Probe: mean gaze away from sad stimuli
+var_gaze_bias_1_sad,Dot Probe: variability in bias for sad stimuli
+dp_gaze_cor_1_sad,Dot Probe: correlation between TLBS and gaze for sad stimuli
+dp_bias_1_happy,Dot Probe: traditional difference score for happy stimuli
+n_dp_valid_1_happy,Dot Probe: number of valid trials
+pct_dp_toward_1_happy,Dot Probe: fraction of total trials towards happy stimuli
+mean_dp_toward_1_happy,Dot Probe: mean TLBS toward happy stimuli
+mean_dp_away_1_happy,Dot Probe: mean TLBS away from happy stimuli
+var_dp_bias_1_happy,Dot Probe: variability in TLBS for happy stimuli
+gaze_bias_1_happy,Dot Probe: mean gaze bias for happy stimuli
+init_gaze_bias_1_happy,Dot Probe: mean initial bias for happy stimuli
+final_gaze_bias_1_happy,Dot Probe: mean final bias for happy stimuli
+pct_gaze_toward_1_happy,"Dot Probe: percent gaze toward stimuli, happy"
+pct_gaze_center_1_happy,"Dot Probe: percent gaze toward center, happy"
+mean_gaze_toward_1_happy,Dot Probe: mean gaze toward happy stimuli
+mean_gaze_away_1_happy,Dot Probe: mean gaze away from happy stimuli
+var_gaze_bias_1_happy,Dot Probe: variability in bias for happy stimuli
+dp_gaze_cor_1_happy,Dot Probe: correlation between TLBS and gaze for happy stimuli
+suicidal_ideation,presence of suicidal ideation (yes/no)
+neg_dilation_mean,Pupil Dilation: late-stage average dilation across negative trials
+neu_dilation_mean,Pupil Dilation: late-stage average dilation across neutral trials
+pos_dilation_mean,Pupil Dilation: late-stage average dilation across positive trials
+neg_ratio,Pupil Dilation: late-stage average ratio of max to min dilation for negative stimuli
+neu_ratio,Pupil Dilation: late-stage average ratio of max to min dilation for neutral stimuli
+pos_ratio,Pupil Dilation: late-stage average ratio of max to min dilation for positive stimuli
+neg_dilation_peak,Pupil Dilation: late-stage average peak dilation for negative trials
+neu_dilation_peak,Pupil Dilation: late-stage average peak dilation for neutral trials
+pos_dilation_peak,Pupil Dilation: late-stage average peak dilation for positive trials
+neg_pupil_bias_mean,Pupil Dilation: late-stage mean dilation for negative stimuli - mean dilation for neutral stimuli
+pos_pupil_bias_mean,Pupil Dilation: late-stage mean dilation for positive stimuli - mean dilation for neutral stimuli
+neg_pupil_bias_peak,Pupil Dilation: late-stage peak dilation for negative stimuli - peak dilation for neutral stimuli
+pos_pupil_bias_peak,Pupil Dilation: late-stage peak dilation for positive stimuli - peak dilation for neutral stimuli
+neg_dilation_total_peak,Pupil Dilation: total time series average peak dilation across negative trialsÊ
+neu_dilation_total_peak,Pupil Dilation: total time series average peak dilation across neutral trials
+pos_dilation_total_peak,Pupil Dilation: total time series average peak dilation across positive trials
